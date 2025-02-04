@@ -1,4 +1,4 @@
-## [Develop & Innovate for Social Change (DISC)](https://disc-nu.github.io/)
+## [Develop & Innovate for Social Change (DISC)](https://www.discnu.org/)
 
 ### About DISC 💻💡
 

@@ -6,9 +6,9 @@ DISC is Northwestern University's premier hub for tech innovation and social imp
 
 This GitHub organization is maintained by our Technical Leads:
 
-- [Amy Liao](https://www.linkedin.com/in/amyzliao/)
-- [Ethan Pineda](https://www.linkedin.com/in/ethanpineda/)
-- [Annand Patel](https://www.linkedin.com/in/aanand-patel1/)
+- [Brock Brown](https://www.linkedin.com/in/bbrockbrown/)
+- [Vihaan Shah](https://www.linkedin.com/in/shah-vihaan/)
+- [Christian Lee](https://www.linkedin.com/in/christian-lee-b429032a9/)
 
 ### What You Can Find Here 🔍
 
@@ -42,16 +42,18 @@ Interested in joining DISC? We welcome students of all skill levels and backgrou
 
 Have questions? Want to partner with us?
 
-- Visit our website: [disc-nu.github.io/disc-website/](https://disc-nu.github.io/disc-website/)
+- Visit our website: [https://www.discnu.org/](https://www.discnu.org/)
 - Email: [disc@u.northwestern.edu](mailto:disc@u.northwestern.edu)
 
 ### Leadership 👥
 
-- **Co-Presidents**: Rachel Yao & Blake Hu
-- **VP Member Development**: Joanna Soltys
-- **VP Business Development**: Jacky Zhang
-- **Technical Leads**: Amy Liao, Ethan Pineda, Annand Patel
+- **Co-Presidents**: Joanna Soltys & Annand Patel
+- **VP Member Development**: Paula Fregene
+- **VP Marketing**: Jazlyn Ho
+- **VP Business Development**: Yong-Yu Huang
+- **VP Finance**: Ejean Kuo
+- **Technical Leads**: Brock Brown, Vihaan Shah, Christian Lee
 
 ---
 
-© 2024 Develop & Innovate for Social Change - Northwestern University
+© 2025 Develop & Innovate for Social Change - Northwestern University
